@@ -1,0 +1,25 @@
+Fill out the following template and include any links to any tools mentioned. Make sure the tool has a valid link that accesses a real website. The tool must be free-to-use and does not require signups.
+
+Topic: [Enter specific tool or way of interacting with generative AI here using a catchy title]
+
+
+Overview :
+In the exciting world of generative AI, there are many ways to interact and leverage its creative power. This guide explores [briefly describe the chosen tool] and its potential to [mention a benefit, e.g., enhance brainstorming, simplify code generation].
+
+
+Step-by-Step Guide:
+Let's jump right in and see how [Tool/Way] works! Here's a practical example:
+[Explain the first step, incorporating a user-friendly demo] (e.g., "We'll be using [Platform Name] for this example. Here's a screenshot of the interface [Screenshot].)
+[Explain the second step, encouraging user interaction with the interface] (e.g., "Now, let's copy and paste the following prompt into the text box: 'Once upon a time, a robot chef discovered a magical ingredient...'. Feel free to modify this prompt and add your own creative twist!")
+[Continue with remaining steps, integrating demos and user prompts]
+
+
+Examples:
+Here's what you can achieve with [Tool/Way]:
+Example 1: (Briefly describe the scenario and outcome based on the demo)
+This result demonstrates how [Tool/Way] can help you [mention a benefit].
+Example 2: (Briefly describe another scenario and outcome)
+This showcases the versatility of [Tool/Way] and its potential for [mention another benefit].
+
+Wrap-up:
+By incorporating [Tool/Way] into your workflow, you can unlock new possibilities when interacting with generative AI. This method allows you to [reiterate a benefit] and empowers you to [mention another benefit]. We recommend exploring different prompts and settings within [Platform Name] to see what unique results you can create. Remember, the more you experiment, the more you'll discover the creative potential of generative AI.
